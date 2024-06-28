@@ -6,16 +6,16 @@ This project is a comprehensive file storage application featuring organizations
 
 #### BR
 
-Este projeto é uma aplicação de armazenamento de arquivos que utiliza diversas tecnologias modernas para oferecer uma experiência completa e eficiente.
+Este projeto é uma aplicação abrangente de armazenamento de arquivos que inclui organizações, upload e gerenciamento de arquivos, autorização baseada em funções, autenticação, exclusão programada de arquivos, favoritos e funcionalidades de lixeira. A interface do usuário é rica em componentes como diálogos, modais, alertas e menus suspensos.
 
 ## Stack
 
-**TypeScript**: Strongly typed programming language.
-**Next.js**: React framework for building server-side rendered applications.
-**Shadcn**: UI components library.
-**Tailwind CSS**: Utility-first CSS framework.
-**Convex**: Backend database and logic.
-**Clerk**: Authentication and user management.
+- TypeScript: Strongly typed programming language.
+- Next.js: React framework for building server-side rendered applications.
+- Shadcn: UI components library.
+- Tailwind CSS: Utility-first CSS framework.
+- Convex: Backend database and logic.
+- Clerk: Authentication and user management.
 
 ## Features
 
